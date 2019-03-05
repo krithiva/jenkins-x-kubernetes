@@ -32,7 +32,3 @@ readinessProbe:
   successThreshold: 1
   timeoutSeconds: 1
 terminationGracePeriodSeconds: 10
-REPLACE_ME_APP_NAME-db:
-  replicaSet:
-    enabled: true
-
